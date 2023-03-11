@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ShekharDhangar
-- 👀 I’m interested in Web-Development
-- 🌱 I’m currently exploring Web-Development
+- 🌱 Currently frontend intern at Setu
 - 💞️ I’m looking for Internships
-- 📫 You can reach me through twitter @shekharetc
+- 📫 You can reach me through twitter @_shekhar23
 
 <!---
 ShekharDhangar/ShekharDhangar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
