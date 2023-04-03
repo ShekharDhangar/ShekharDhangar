@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ShekharDhangar
 - 🌱 Currently frontend intern at Setu
-- 💞️ I’m looking for Internships
 - 📫 You can reach me through twitter @_shekhar23
 
 <!---
